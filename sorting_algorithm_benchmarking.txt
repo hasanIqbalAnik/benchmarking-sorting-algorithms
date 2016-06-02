@@ -1,0 +1,12 @@
+This project would have 5 sorting algorithms operating on a fixed dataset. Each of them would be timed to find out the performance. 
+
+
+O(nk) in the worst case algorithms:
+1. Radix Sort (done)
+
+O(n^2) in the worst case algorithms:
+2. Bubble Sort (done)
+3. Selection Sort (done)
+
+O(n log(n)) in the worst case algorithms:
+4. Merge Sort (in progress...)
